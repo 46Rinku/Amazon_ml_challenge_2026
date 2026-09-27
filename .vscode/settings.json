@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "Amazon-ML-Challenge-2026/src",
+    "Amazon-ML-Challenge-2026/amc2026/src"
+  ]
+}
